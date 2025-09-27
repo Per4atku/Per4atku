@@ -1,8 +1,6 @@
-# Hi there, I'm Artemiy 👋
+# Hi there, I'm tyoma 👋
 
 🌊 Building high-performance apps with **Next.js, Tailwind & shadcn/ui**  
-🎸 Musician & coder — blending creativity into every project  
-🌱 Currently diving into **AI + full-stack development**  
 
 ---
 
@@ -50,15 +48,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 
 
----
-
-## 🎵 Outside of Code
-- Guitarist & songwriter 🎸  
-- Love for art, psychology & philosophy 🎭  
-- Exploring strange, atmospheric places 🌌  
-
----
-
 💌 Let’s connect:  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/YOURHANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/tyoyoyo)
