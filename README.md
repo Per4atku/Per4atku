@@ -49,4 +49,4 @@
 
 
 💌 Let’s connect:  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/tyoyoyo)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/tyoyoyoyo)
