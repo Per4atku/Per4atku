@@ -8,6 +8,7 @@
 - [🤨 HuH Productivity App Landing (PET)](https://github.com/Per4atku/huh-landing) – Next.JS, Framer Motion, TailwindCSS, shadcn/ui
 - [🌏 Pack Planet - website for the packaging company (Commercial)](https://github.com/Per4atku/pack-planet) – Next.JS + Strapi
 - [💳 ØmniWallet App Landing (PET)](https://github.com/Pe4atku/omniwallet) - Next.JS, Framer Motion, TailwindCSS, shadcn/ui
+- [🇯🇵 Daruma Store ](https://github.com/Per4atku/daruma) - Next.JS, zustand
 - [🍃 Know Your Emission ](https://github.com/Per4atku/know-your-emission) - Next.JS (Passion Project)
 
 
